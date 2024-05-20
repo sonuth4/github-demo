@@ -1,3 +1,5 @@
 Sonu Thapa Magar
 I took part in open bootcamp to learn extra more web development from experts from outside of Nepal.
 I also want to learn about project management.
+
+I learned about basics of Git and Github,creation of respository and local files.
